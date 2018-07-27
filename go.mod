@@ -3,6 +3,7 @@ module github.com/vuleetu/test/v2
 require (
 	github.com/davecgh/go-spew v1.1.0 // indirect
 	github.com/gin-gonic/gin v1.1.4
+	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
 	github.com/golang/protobuf v1.1.0 // indirect
 	github.com/manucorporat/sse v0.0.0-20160126180136-ee05b128a739 // indirect
 	github.com/mattn/go-isatty v0.0.3 // indirect
